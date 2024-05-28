@@ -1,0 +1,9 @@
+{
+    "mappers": [
+        {
+            "name": "xidp_mapper",
+            "fileName": "xidp_script_mapper.js",
+            "description": "xidp script mapper for iDRAC Privs"
+        }
+    ]
+}
